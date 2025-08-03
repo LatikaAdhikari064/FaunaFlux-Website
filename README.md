@@ -13,4 +13,5 @@ Key Features
 
 🚀Website link-https://latikaadhikari064.github.io/FaunaFlux-Website/
 
-<img width="1576" height="716" alt="Screenshot 2025-08-04 001109" src="https://github.com/user-attachments/assets/33c0b102-1428-4d6e-80b3-f588edbc9ea1" />
+<img width="1563" height="772" alt="Screenshot 2025-08-04 001320" src="https://github.com/user-attachments/assets/9d60782e-74d0-43f4-9ba8-22a198e2640a" />
+
